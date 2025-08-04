@@ -19,8 +19,8 @@ This project analyzes a pizza sales dataset using SQL. It showcases key business
 
 ## 📊 Tools Used
 
-- SQL Server / PostgreSQL / MySQL (any one)
-- Microsoft Excel (for visualization)
+- MySQL
+- Microsoft Excel
 
 ---
 
